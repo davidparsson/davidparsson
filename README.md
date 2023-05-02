@@ -2,7 +2,7 @@
 
 ### Hi, I'm David! 👋
 
-I'm an Software Architect and DevOps Engineer at [@amramedical](https://github.com/amramedical/).
+I'm a Software Architect and DevOps Engineer at [@amramedical](https://github.com/amramedical/).
 
 <!--
 **davidparsson/davidparsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
